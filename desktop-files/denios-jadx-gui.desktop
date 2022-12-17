@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=jadx GUI
+Encoding=UTF-8
+Exec=parrot-exec "jadx-gui"
+Icon=xterm
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=07-03-decompilers;
+Comment=Dex to java decompiler (GUI)
+X-Parrot-Package=jadx

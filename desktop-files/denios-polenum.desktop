@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=polenum
+Comment=Enumerate password policy from SMB service
+Encoding=UTF-8
+Exec=parrot-exec "polenum -h"
+Icon=xterm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-10-smb-analysis;
+X-Parrot-Package=polenum

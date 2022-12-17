@@ -1,0 +1,16 @@
+menus/denios-applications.menu etc/xdg/menus/applications-merged/
+menus/privacy.menu etc/xdg/menus/applications-merged/
+menus/services.menu etc/xdg/menus/applications-merged/
+menus/anon-surf.menu etc/xdg/menus/applications-merged/
+menus/cryptography.menu etc/xdg/menus/applications-merged/
+menus/mate-applications.menu etc/xdg/menus/
+menus/xfce-applications.menu etc/xdg/menus/
+bin/* usr/bin/
+desktop-directories/*.directory usr/share/desktop-directories/
+desktop-files/*.desktop usr/share/denios-menu/applications/
+apt.conf.d/99denios-menu etc/apt/apt.conf.d/
+build/update-launchers usr/share/denios-menu/
+menu-icons/* usr/share/icons/
+denios-common usr/share/icons/
+dconf/denios-menu etc/dconf/db/local.d/
+

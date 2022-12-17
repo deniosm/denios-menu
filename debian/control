@@ -1,0 +1,19 @@
+Source: denios-menu
+Section: tasks
+Priority: optional
+Maintainer: Denis Maslo <denios-menu@proton.me>
+Uploaders: Denis Maslo <denios-menu@proton.me>
+Build-Depends: debhelper-compat (=12),
+               nim,
+Standards-Version: 4.5.0
+
+Package: denios-menu
+Architecture: any
+Depends: ${misc:Depends}, policykit-1, xdg-utils, libc6
+Breaks: dradis (<< 3.1.0~rc2)
+Replaces: mate-menus, libgarcon-common
+Description: Denios GNU/Linux custom menu
+ This package provides a custom menu for Denios GNU/Linux.
+ It is used by any destkop that complies with the Freedesktop menu
+ specification at http://standards.freedesktop.org/menu-spec/menu-spec-1.0.html
+

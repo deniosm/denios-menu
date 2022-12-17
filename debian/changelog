@@ -1,0 +1,14 @@
+denios-menu (1.0.3) denios-updates; urgency=medium
+
+  * Change icon colors
+  * New icon for Anon-surf
+ 
+ -- Denis Maslo <denios-linux@proton.me>  Sun, 17 Dec 2022 20:24:10 +0100
+
+denios-menu (1.0.2) testing; urgency=medium
+
+  * Initial Release.
+  * Initial Version.
+
+ -- Denis Maslo <denios-linux@proton.me>  Sun, 04 Dec 2022 22:26:35 +0100
+

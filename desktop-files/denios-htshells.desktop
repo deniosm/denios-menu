@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=htshells
+Encoding=UTF-8
+Exec=parrot-ls "/usr/share/htshells"
+Icon=xterm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-03-web-backdoors
+Comment=Collection of webshells backdoors
+X-Parrot-Package=htshells

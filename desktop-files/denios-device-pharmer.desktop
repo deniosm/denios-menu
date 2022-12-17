@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=device-pharmer
+Comment=Search Shodan results and test credentials
+Encoding=UTF-8
+Exec=parrot-exec "device-pharmer -h"
+Icon=xterm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-01-online-attacks;
+X-Parrot-Package=device-pharmer

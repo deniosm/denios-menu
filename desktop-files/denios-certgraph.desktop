@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=certgraph
+Comment=Enumerate DNS name by checking SSL Certificate
+Encoding=UTF-8
+Exec=parrot-exec "certgraph -h"
+Icon=xterm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-01-dns-analysis;top10
+X-Parrot-Package=certgraph

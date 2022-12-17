@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=b374k
+Encoding=UTF-8
+Exec=parrot-ls "/usr/share/b374k/"
+Icon=xterm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-03-web-backdoors
+Comment=b374k webshell
+X-Parrot-Package=b374k

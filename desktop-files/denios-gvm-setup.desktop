@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=GVM Setup
+Comment=Install modules, plugins, admin password for Greenbone Vulnerability Manager (OpenVas)
+Encoding=UTF-8
+Exec=menuexec "gvm-setup"
+Icon=parrot-OpenVas.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=serv-11-openvas-service;02-06-openvas;
+X-Parrot-Package=gvm

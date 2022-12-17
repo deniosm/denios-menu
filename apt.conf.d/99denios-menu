@@ -1,0 +1,1 @@
+DPkg::Post-Invoke { "[ ! -x /usr/share/denios-menu/update-launchers ] || /usr/share/denios-menu/update-launchers wait_dpkg"; }

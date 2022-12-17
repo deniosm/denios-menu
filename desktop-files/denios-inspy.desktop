@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=inspy
+Encoding=UTF-8
+Exec=parrot-exec "inspy -h"
+Icon=xterm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-07-osint-analysis;
+Comment=LinkedIn enumeration tool
+X-Parrot-Package=inspy
