@@ -1,4 +1,5 @@
-                Denios Gnu/Linux Menu Package
+###############################################################################
+                     Denios Gnu/Linux Menu Package
 ###############################################################################
 You can add as many desktop files as you want in the desktop-files
 sub-directory. Each desktop file must have an entry "X-Denios-Package=foo"
