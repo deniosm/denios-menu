@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=03-05-web-vulnerability-scanners;
 Comment=Web application vulnerability scanner
-X-Parrot-Package=wapiti
+X-Denios-Package=wapiti

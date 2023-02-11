@@ -9,4 +9,4 @@ Name[zh_CN]=GPSd
 Name[zh_HK]=GPSd
 Name[zh_TW]=GPSd
 Type=Directory
-Icon=/usr/share/icons/parrot-common/parrot-gpsd.png
+Icon=/usr/share/icons/denios-common/denios-gpsd.png

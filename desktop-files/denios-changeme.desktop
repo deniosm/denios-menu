@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-01-online-attacks;
-X-Parrot-Package=changeme
+X-Denios-Package=changeme

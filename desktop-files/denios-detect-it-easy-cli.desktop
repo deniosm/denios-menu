@@ -2,10 +2,10 @@
 Name=Detect It Easy - CLI
 Comment=Determining types of files, packers, file structure and more
 Encoding=UTF-8
-Exec=parrot-exec "diec -h"
-Icon=/usr/share/icons/parrot-common/die/main.ico
+Exec=denios-exec "diec -h"
+Icon=/usr/share/icons/denios-common/die/main.ico
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-reverseengineer;
-X-Parrot-Package=detect-it-easy
+X-Denios-Package=detect-it-easy

@@ -2,10 +2,10 @@
 Name=wifite
 Encoding=UTF-8
 Exec=menuexec "wifite --help"
-Icon=parrot-wifite.png
+Icon=denios-wifite.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=06-wireless-attacks;
 Comment=Python script to automate wireless auditing using aircrack-ng tools
-X-Parrot-Package=wifite
+X-Denios-Package=wifite

@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=rz-find — Advanced commandline hexadecimal editor
 Encoding=UTF-8
-Exec=parrot-exec "rz-find -h"
-Icon=parrot-rizin.png
+Exec=denios-exec "rz-find -h"
+Icon=denios-rizin.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-05-rizin;
 Comment=Find byte patterns into files
-X-Parrot-Package=rizin
+X-Denios-Package=rizin

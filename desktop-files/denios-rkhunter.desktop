@@ -2,10 +2,10 @@
 Name=rkhunter
 Encoding=UTF-8
 Exec=menuexec "rkhunter -h"
-Icon=parrot-rkhunter.png
+Icon=denios-rkhunter.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=11-forensics;
 Comment=Checks on the local system to try and detect known rootkits and malware
-X-Parrot-Package=rkhunter
+X-Denios-Package=rkhunter

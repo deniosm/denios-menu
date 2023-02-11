@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=13-01-can-utils
 Comment=Userspace daemon for serial line CAN interface driver SLCAN
-X-Parrot-Package=can-utils
+X-Denios-Package=can-utils

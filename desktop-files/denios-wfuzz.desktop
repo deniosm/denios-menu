@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=03-04-web-crawlers;
 Comment=A web application fuzzer
-X-Parrot-Package=wfuzz
+X-Denios-Package=wfuzz

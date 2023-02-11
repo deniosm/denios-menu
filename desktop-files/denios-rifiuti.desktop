@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=11-05-forensic-carving-tools;
 Comment=A Recycle Bin Forensic Analysis Tool.
-X-Parrot-Package=rifiuti
+X-Denios-Package=rifiuti

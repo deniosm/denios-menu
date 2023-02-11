@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=11-08-forensic-suites;
 Comment=compare the contents of a directory with the contents of an image or local device.
-X-Parrot-Package=sleuthkit
+X-Denios-Package=sleuthkit

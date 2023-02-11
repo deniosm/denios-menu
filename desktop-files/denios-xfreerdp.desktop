@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=08-03-pth
 Comment=FreeRDP X11 client
-X-Parrot-Package=xfreerdp
+X-Denios-Package=xfreerdp

@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=02-07-stress-testing;04-07-ipv6
 Comment=Smurfs the local network of the victim
-X-Parrot-Package=thc-ipv6
+X-Denios-Package=thc-ipv6

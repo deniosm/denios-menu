@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=02-03-voip-tools;
-X-Parrot-Package=protos-sip
+X-Denios-Package=protos-sip

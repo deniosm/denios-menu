@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=06-05-radio-tools;
 Comment=The swiss army knife of sub-GHz radio.
-X-Parrot-Package=rfcat
+X-Denios-Package=rfcat

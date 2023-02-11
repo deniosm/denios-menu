@@ -2,10 +2,10 @@
 Name=dmitry
 Comment=Gather information about a host
 Encoding=UTF-8
-Exec=parrot-exec "dmitry"
-Icon=parrot-dmitry.png
+Exec=denios-exec "dmitry"
+Icon=denios-dmitry.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-info-gathering;
-X-Parrot-Package=dmitry
+X-Denios-Package=dmitry

@@ -2,10 +2,10 @@
 Name=pwncat
 Comment=Netcat implementation that can do Firewall, IPS/IDS evasion.
 Encoding=UTF-8
-Exec=parrot-exec "pwncat -h"
+Exec=denios-exec "pwncat -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-01-os-backdoors;
-X-Parrot-Package=pwncat
+X-Denios-Package=pwncat

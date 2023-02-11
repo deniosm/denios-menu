@@ -2,10 +2,10 @@
 Name=amap
 Comment=Identify applications on running ports
 Encoding=UTF-8
-Exec=parrot-exec "amap"
+Exec=denios-exec "amap"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-info-gathering;01-04-network-scanners;
-X-Parrot-Package=amap
+X-Denios-Package=amap

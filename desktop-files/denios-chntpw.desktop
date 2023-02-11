@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-03-local-attacks;
-X-Parrot-Package=chntpw
+X-Denios-Package=chntpw

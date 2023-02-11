@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=02-01-cisco-tools;06-01-cisco-attacks;
-X-Parrot-Package=copy-router-config
+X-Denios-Package=copy-router-config

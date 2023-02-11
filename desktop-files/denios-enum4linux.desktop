@@ -2,10 +2,10 @@
 Name=enum4linux
 Comment=Enumerating information from Windows and Samba systems
 Encoding=UTF-8
-Exec=parrot-exec "enum4linux"
+Exec=denios-exec "enum4linux"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-10-smb-analysis;
-X-Parrot-Package=enum4linux
+X-Denios-Package=enum4linux

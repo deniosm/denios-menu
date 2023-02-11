@@ -2,10 +2,10 @@
 Name=laudanum
 Comment=Collection of injectable files, designed to be used in a pentest when upload vulnerabilities, administrative interfaces, and SQL injection flaws are found
 Encoding=UTF-8
-Exec=parrot-ls "/usr/share/laudanum"
+Exec=denios-ls "/usr/share/laudanum"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-03-web-backdoors;
-X-Parrot-Package=laudanum
+X-Denios-Package=laudanum

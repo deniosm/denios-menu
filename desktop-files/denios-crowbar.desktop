@@ -2,10 +2,10 @@
 Name=crowbar
 Comment=Bruteforce OpenVPN, RDP with NLA support, SSH or VNC with private key authentication
 Encoding=UTF-8
-Exec=parrot-exec "crowbar --help"
+Exec=denios-exec "crowbar --help"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-01-online-attacks;
-X-Parrot-Package=crowbar
+X-Denios-Package=crowbar

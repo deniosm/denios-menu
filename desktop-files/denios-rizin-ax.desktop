@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=rz-ax — rizin base converter
 Encoding=UTF-8
-Exec=parrot-exec "rz-ax -h"
-Icon=parrot-rizin.png
+Exec=denios-exec "rz-ax -h"
+Icon=denios-rizin.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-05-rizin;
 Comment=Convert values between positive and negative integer, float, octal, binary and hexadecimal values
-X-Parrot-Package=rizin
+X-Denios-Package=rizin

@@ -1,8 +1,8 @@
 Source: denios-menu
 Section: tasks
 Priority: optional
-Maintainer: Denis Maslo <denios-menu@proton.me>
-Uploaders: Denis Maslo <denios-menu@proton.me>
+Maintainer: Denis Maslo <denios-linux@proton.me>
+Uploaders: Denis Maslo <denios-linux@proton.me>
 Build-Depends: debhelper-compat (=12),
                nim,
 Standards-Version: 4.5.0

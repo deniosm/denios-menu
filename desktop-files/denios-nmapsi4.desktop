@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-info-gathering;01-04-network-scanners;
-X-Parrot-Package=nmapsi4
+X-Denios-Package=nmapsi4

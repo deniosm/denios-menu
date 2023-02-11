@@ -8,4 +8,4 @@ Terminal=false
 Type=Application
 Categories=07-03-decompilers;
 Comment=Java 8+ Jar & Android APK Reverse Engineering Suite
-X-Parrot-Package=bytecode-viewer
+X-Denios-Package=bytecode-viewer

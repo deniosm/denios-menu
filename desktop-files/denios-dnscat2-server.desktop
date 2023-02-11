@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-maintaining-access;
-X-Parrot-Package=dnscat2-server
+X-Denios-Package=dnscat2-server

@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=06-02-bluetooth-tools;
-X-Parrot-Package=bluesnarfer
+X-Denios-Package=bluesnarfer

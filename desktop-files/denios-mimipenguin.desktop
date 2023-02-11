@@ -2,10 +2,10 @@
 Name=mimipenguin
 Comment=Uses root permission on Linux to display passwords in plaintext
 Encoding=UTF-8
-Exec=parrot-ls /usr/share/mimipenguin
+Exec=denios-ls /usr/share/mimipenguin
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=08-02-hash-dump;
-X-Parrot-Package=mimipenguin
+X-Denios-Package=mimipenguin

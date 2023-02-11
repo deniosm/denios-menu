@@ -2,10 +2,10 @@
 Name=Maltego
 Comment=Mining and gathering information
 Encoding=UTF-8
-Exec=parrot-exec "maltego"
-Icon=parrot-maltego.png
+Exec=denios-exec "maltego"
+Icon=denios-maltego.png
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=01-info-gathering;01-07-osint-analysis;top10
-X-Parrot-Package=maltego
+X-Denios-Package=maltego

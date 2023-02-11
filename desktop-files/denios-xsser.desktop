@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=03-05-web-vulnerability-scanners;
 Comment=detect, exploit and report XSS vulnerabilities in web-based applications
-X-Parrot-Package=xsser
+X-Denios-Package=xsser

@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=13-01-can-utils
-X-Parrot-Package=can-utils
+X-Denios-Package=can-utils

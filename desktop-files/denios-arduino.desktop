@@ -5,4 +5,4 @@ Exec=arduino
 Icon=arduino
 Terminal=false
 Categories=Development;Engineering;
-X-Parrot-Package=arduino
+X-Denios-Package=arduino

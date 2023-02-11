@@ -2,10 +2,10 @@
 Name=oleid
 Comment=Detect specific characteristics that could potentially indicate that the file is suspicious or malicious
 Encoding=UTF-8
-Exec=parrot-exec "oleid -h"
+Exec=denios-exec "oleid -h"
 Icon=xterm.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-06-oletools;
-X-Parrot-Package=oletools
+X-Denios-Package=oletools

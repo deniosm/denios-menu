@@ -2,10 +2,10 @@
 Name=oleobj
 Comment=Extract embedded objects from OLE files
 Encoding=UTF-8
-Exec=parrot-exec "oleobj -h"
+Exec=denios-exec "oleobj -h"
 Icon=xterm.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-06-oletools;
-X-Parrot-Package=oletools
+X-Denios-Package=oletools

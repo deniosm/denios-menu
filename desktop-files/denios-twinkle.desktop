@@ -8,4 +8,4 @@ Terminal=false
 Type=Application
 Categories=02-03-voip-tools;
 Comment=SIP-based VoIP client (Qt5 GUI)
-X-Parrot-Package=twinkle
+X-Denios-Package=twinkle

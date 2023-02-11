@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=11-05-forensic-carving-tools;
 Comment=Data recovery program for NTFS file systems
-X-Parrot-Package=scrounge-ntfs
+X-Denios-Package=scrounge-ntfs

@@ -2,10 +2,10 @@
 Name=Goofile
 Comment=OSINT tool that use google engine to find specific files
 Encoding=UTF-8
-Exec=parrot-exec "goofile -h"
+Exec=denios-exec "goofile -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-07-osint-analysis;
-X-Parrot-Package=goofile
+X-Denios-Package=goofile

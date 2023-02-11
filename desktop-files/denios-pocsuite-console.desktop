@@ -2,10 +2,10 @@
 Name=PocSuite Console
 Comment=POC testing framework
 Encoding=UTF-8
-Exec=parrot-exec poc-console
+Exec=denios-exec poc-console
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=04-exploitation-tools;
-X-Parrot-Package=pocsuite3
+X-Denios-Package=pocsuite3

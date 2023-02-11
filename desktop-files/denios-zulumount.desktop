@@ -10,4 +10,4 @@ Terminal=false
 StartupNotify=true
 Categories=cryptography
 Keywords=volumes;encrypting;luks;truecrypt;encrypt;security;cryptsetup
-X-Parrot-Package=zulumount-gui
+X-Denios-Package=zulumount-gui

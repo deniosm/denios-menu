@@ -2,10 +2,10 @@
 Name=geoiplookup
 Comment=Check location of IPv4 address
 Encoding=UTF-8
-Exec=parrot-exec "geoiplookup"
+Exec=denios-exec "geoiplookup"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-info-gathering;01-04-network-scanners;
-X-Parrot-Package=geoip-bin
+X-Denios-Package=geoip-bin

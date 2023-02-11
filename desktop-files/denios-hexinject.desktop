@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=09-01-network-sniffers;
-X-Parrot-Package=hexinject
+X-Denios-Package=hexinject

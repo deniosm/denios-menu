@@ -2,10 +2,10 @@
 Name=owasp-zap
 Encoding=UTF-8
 Exec=zaproxy
-Icon=parrot-zaproxy.png
+Icon=denios-zaproxy.png
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=03-webapp-analysis;top10
 Comment=Find security vulnerabilities in web applications.
-X-Parrot-Package=zaproxy
+X-Denios-Package=zaproxy

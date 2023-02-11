@@ -2,10 +2,10 @@
 Name=searchsploit
 Encoding=UTF-8
 Exec=menuexec "searchsploit"
-Icon=parrot-searchsploit.png
+Icon=denios-searchsploit.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=04-03-exploit-search;
 Comment=A command line search tool for Exploit-DB
-X-Parrot-Package=exploitdb-tiny
+X-Denios-Package=exploitdb-tiny

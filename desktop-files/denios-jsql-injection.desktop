@@ -2,10 +2,10 @@
 Name=jSQL Injection
 Comment=Java tool for automatic database injection (GUI)
 Encoding=UTF-8
-Exec=parrot-exec "jsql"
-Icon=parrot-jsql.png
+Exec=denios-exec "jsql"
+Icon=denios-jsql.png
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=03-05-web-vulnerability-scanners;04-05-web-exploit
-X-Parrot-Package=jsql-injection
+X-Denios-Package=jsql-injection

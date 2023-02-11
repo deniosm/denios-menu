@@ -8,5 +8,5 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=09-02-network-spoofing;
-X-Parrot-Package=fiked
+X-Denios-Package=fiked
 

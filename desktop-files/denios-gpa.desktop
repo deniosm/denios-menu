@@ -10,4 +10,4 @@ Terminal=false
 StartupNotify=true
 Categories=cryptography
 Keywords=encrypting;encrypt;security;keyring;encryption;security;sign;
-X-Parrot-Package=gpa
+X-Denios-Package=gpa

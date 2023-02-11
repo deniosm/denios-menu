@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=rz-pm — rizin package manager
 Encoding=UTF-8
-Exec=parrot-exec "rz-pm -h"
-Icon=parrot-rizin.png
+Exec=denios-exec "rz-pm -h"
+Icon=denios-rizin.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-05-rizin;
 Comment=Install, update, uninstall and discover plugins and tools for Rizin framework
-X-Parrot-Package=rizin
+X-Denios-Package=rizin

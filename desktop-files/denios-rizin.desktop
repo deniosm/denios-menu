@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=rizin — Advanced commandline hexadecimal editor, disassembler and debugger
 Encoding=UTF-8
-Exec=parrot-exec "rizin -h"
-Icon=parrot-rizin.png
+Exec=denios-exec "rizin -h"
+Icon=denios-rizin.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-05-rizin;
 Comment=Advanced commandline hexadecimal editor, disassembler and debugger
-X-Parrot-Package=rizin
+X-Denios-Package=rizin

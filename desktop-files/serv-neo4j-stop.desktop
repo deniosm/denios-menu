@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=false
 Type=Application
 Categories=serv-13-neo4j-service
-X-Parrot-Package=neo4j
+X-Denios-Package=neo4j

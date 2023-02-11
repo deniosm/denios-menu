@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-02-offline-attacks;06-02-bluetooth-tools;
-X-Parrot-Package=crackle
+X-Denios-Package=crackle

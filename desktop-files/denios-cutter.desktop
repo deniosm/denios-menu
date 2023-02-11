@@ -6,4 +6,4 @@ Exec=Cutter
 Icon=cutter
 Type=Application
 Categories=07-04-radare2;
-X-Parrot-Package=radare2-cutter
+X-Denios-Package=radare2-cutter

@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=02-03-voip-tools;
 Comment=Runs a VLAN hop security test
-X-Parrot-Package=voiphopper
+X-Denios-Package=voiphopper

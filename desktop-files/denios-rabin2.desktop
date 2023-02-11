@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=rabin2
 Encoding=UTF-8
-Exec=parrot-exec "rabin2 -h"
+Exec=denios-exec "rabin2 -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-04-radare2;
 Comment=Binary program info extractor
-X-Parrot-Package=radare2
+X-Denios-Package=radare2

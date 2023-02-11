@@ -2,10 +2,10 @@
 Name=jwtxploiter
 Comment=A tool to test security of JSON Web Tokens. Test a JWT against all known CVEs.
 Encoding=UTF-8
-Exec=parrot-exec "jwtxpl -h"
+Exec=denios-exec "jwtxpl -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-webapp-analysis
-X-Parrot-Package=jwtxploiter
+X-Denios-Package=jwtxploiter

@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=07-04-radare2;
 Comment=Radare2 utility to run programs in exotic environments
-X-Parrot-Package=radare2
+X-Denios-Package=radare2

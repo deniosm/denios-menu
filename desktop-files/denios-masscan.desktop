@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-04-network-scanners;
-X-Parrot-Package=masscan
+X-Denios-Package=masscan

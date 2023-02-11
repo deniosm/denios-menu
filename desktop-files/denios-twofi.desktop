@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=05-05-profile;
 Comment=Use Twitter to help generate those lists based on searches for keywords related to the list that is being cracked
-X-Parrot-Package=twofi
+X-Denios-Package=twofi

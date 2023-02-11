@@ -2,10 +2,10 @@
 Name=pyxswf
 Comment=Detect, extract and analysis Flash objects in MS Office files 
 Encoding=UTF-8
-Exec=parrot-exec "pyxswf -h"
+Exec=denios-exec "pyxswf -h"
 Icon=xterm.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-06-oletools;
-X-Parrot-Package=oletools
+X-Denios-Package=oletools

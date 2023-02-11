@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=09-02-network-spoofing;
-X-Parrot-Package=isr-evilgrade
+X-Denios-Package=isr-evilgrade

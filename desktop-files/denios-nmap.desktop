@@ -2,10 +2,10 @@
 Name=Nmap - the Network Mapper
 Comment=Network exploration or security auditing
 Encoding=UTF-8
-Exec=parrot-exec "nmap"
-Icon=parrot-nmap.png
+Exec=denios-exec "nmap"
+Icon=denios-nmap.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-info-gathering;01-04-network-scanners;
-X-Parrot-Package=nmap
+X-Denios-Package=nmap

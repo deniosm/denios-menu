@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=02-02-fuzzers;
 Comment=A network protocol fuzzing test software
-X-Parrot-Package=spike
+X-Denios-Package=spike

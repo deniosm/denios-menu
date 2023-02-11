@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=05-05-profile;
 Comment=Wordlist mangling tool
-X-Parrot-Package=rsmangler
+X-Denios-Package=rsmangler

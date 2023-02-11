@@ -2,10 +2,10 @@
 Name=Keystone Engine
 Comment=Commandline tool of Keystone Assembler Framework
 Encoding=UTF-8
-Exec=parrot-exec kstool
-Icon=parrot-menu.png
+Exec=denios-exec kstool
+Icon=denios-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=Development
-X-Parrot-Package=keystone-engine
+X-Denios-Package=keystone-engine

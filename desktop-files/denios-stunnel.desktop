@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=10-02-tunneling;
 Comment=TLS offloading and load-balancing proxy
-X-Parrot-Package=stunnel4
+X-Denios-Package=stunnel4

@@ -12,4 +12,4 @@ Type=Application
 Categories=04-06-db-exploit;Development;Database;Qt;
 StartupNotify=false
 MimeType=application/x-sqlite;
-X-Parrot-Package=sqlitebrowser
+X-Denios-Package=sqlitebrowser

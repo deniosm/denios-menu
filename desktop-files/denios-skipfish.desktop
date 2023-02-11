@@ -2,10 +2,10 @@
 Name=skipfish
 Encoding=UTF-8
 Exec=menuexec "skipfish -h"
-Icon=parrot-skipfish.png
+Icon=denios-skipfish.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-webapp-analysis;03-05-web-vulnerability-scanners;
 Comment=Web application security scanner
-X-Parrot-Package=skipfish
+X-Denios-Package=skipfish

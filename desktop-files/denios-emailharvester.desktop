@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=emailharvester
 Encoding=UTF-8
-Exec=parrot-exec "emailharvester -h"
+Exec=denios-exec "emailharvester -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-07-osint-analysis;
 Comment=Retrieve Domain email addresses from Search Engines
-X-Parrot-Package=emailharvester
+X-Denios-Package=emailharvester

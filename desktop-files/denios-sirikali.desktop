@@ -10,4 +10,4 @@ Terminal=false
 StartupNotify=true
 Categories=cryptography
 Keywords=volumes;encrypting;encrypt;security;cryfs;gocryptfs;securefs;encfs
-X-Parrot-Package=sirikali
+X-Denios-Package=sirikali

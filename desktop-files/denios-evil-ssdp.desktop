@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=09-02-network-spoofing;
 Comment=Spoof SSDP replies to phish for NTLM hashes on a network
-X-Parrot-Package=evil-ssdp
+X-Denios-Package=evil-ssdp

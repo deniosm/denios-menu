@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-01-cms-identification;03-05-web-vulnerability-scanners;
-X-Parrot-Package=joomscan
+X-Denios-Package=joomscan

@@ -2,4 +2,4 @@
 Name=• Disassemblers
 Type=Directory
 Comment=Translates machine language into assembly language
-Icon=/usr/share/icons/parrot-common/reverse-engineering-trans.png
+Icon=/usr/share/icons/denios-common/reverse-engineering-trans.png

@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-12-snmp-analysis;05-01-online-attacks;
-X-Parrot-Package=onesixtyone
+X-Denios-Package=onesixtyone

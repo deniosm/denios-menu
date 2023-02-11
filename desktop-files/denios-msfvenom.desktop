@@ -2,10 +2,10 @@
 Name=msfvenom
 Comment=Metasploit Payload Generator
 Encoding=UTF-8
-Exec=parrot-exec "msfvenom -h"
-Icon=parrot-mpc.png
+Exec=denios-exec "msfvenom -h"
+Icon=denios-mpc.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=04-01-metasploit-framework;04-04-payload-generator;
-X-Parrot-Package=metasploit-framework
+X-Denios-Package=metasploit-framework

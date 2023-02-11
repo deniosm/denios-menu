@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=webshells
 Encoding=UTF-8
-Exec=parrot-ls "/usr/share/webshells"
+Exec=denios-ls "/usr/share/webshells"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-03-web-backdoors;top10
 Comment=Collection of webshells
-X-Parrot-Package=webshells
+X-Denios-Package=webshells

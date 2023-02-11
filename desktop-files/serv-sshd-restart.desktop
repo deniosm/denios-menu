@@ -8,4 +8,4 @@ Terminal=false
 Type=Application
 Categories=serv-06-sshd;
 Comment=Restart the ssh service
-X-Parrot-Package=openssh-server
+X-Denios-Package=openssh-server

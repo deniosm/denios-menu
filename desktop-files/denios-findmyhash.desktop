@@ -2,10 +2,10 @@
 Name=findmyhash
 Comment=Crack hashes with online services
 Encoding=UTF-8
-Exec=parrot-exec "findmyhash"
+Exec=denios-exec "findmyhash"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-password-attacks;
-X-Parrot-Package=findmyhash
+X-Denios-Package=findmyhash

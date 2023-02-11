@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=01-13-ssl-analysis;10-02-tunneling;
 Comment=A ssl/ssh multiplexer
-X-Parrot-Package=sslh
+X-Denios-Package=sslh

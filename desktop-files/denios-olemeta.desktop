@@ -2,10 +2,10 @@
 Name=olemeta
 Comment=Extract all standard properties (metadata) from OLE files
 Encoding=UTF-8
-Exec=parrot-exec "olemeta -h"
+Exec=denios-exec "olemeta -h"
 Icon=xterm.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-06-oletools;
-X-Parrot-Package=oletools
+X-Denios-Package=oletools

@@ -2,10 +2,10 @@
 Name=xspy
 Comment=Capture *nix X-Server keystroke
 Encoding=UTF-8
-Exec=parrot-exec "echo \"Run tool [/usr/share/xspy/xspy] on target machine to sniff keystroke\""
+Exec=denios-exec "echo \"Run tool [/usr/share/xspy/xspy] on target machine to sniff keystroke\""
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=08-post-exploit
-X-Parrot-Package=xspy
+X-Denios-Package=xspy

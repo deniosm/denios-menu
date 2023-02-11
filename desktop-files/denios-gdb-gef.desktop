@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=07-02-debuggers;
 Comment=A set of commands to assist exploit developers and reverse-engineers
-X-Parrot-Package=gdb-gef
+X-Denios-Package=gdb-gef

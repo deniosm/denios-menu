@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-02-offline-attacks;
-X-Parrot-Package=sucrack
+X-Denios-Package=sucrack

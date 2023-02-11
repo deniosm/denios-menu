@@ -3,9 +3,9 @@ Name=Burpsuite Community Edition
 Comment=Web Application proxy framework
 Encoding=UTF-8
 Exec=java -jar --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED /usr/bin/burpsuite
-Icon=parrot-burpsuite.png
+Icon=denios-burpsuite.png
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=03-06-web-application-proxies;top10
-X-Parrot-Package=burpsuite
+X-Denios-Package=burpsuite

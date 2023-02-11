@@ -2,10 +2,10 @@
 Name=wce
 Comment=Obtain NT/LM hashes from memory, pass-the-hash on Windows natively, play with logon sessions and associated credentials
 Encoding=UTF-8
-Exec=parrot-ls "/usr/share/windows-resources/wce/"
+Exec=denios-ls "/usr/share/windows-resources/wce/"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=08-02-hash-dump;08-03-pth;
-X-Parrot-Package=wce
+X-Denios-Package=wce

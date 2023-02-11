@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=wordlists
 Encoding=UTF-8
-Exec=parrot-ls "/usr/share/wordlists"
+Exec=denios-ls "/usr/share/wordlists"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-05-profile;
 Comment=A collection of rockyou and common password wordlists
-X-Parrot-Package=wordlists
+X-Denios-Package=wordlists

@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=07-02-debuggers;
 Comment=A powerful source-level debugger supports multiple languanges (CLI)
-X-Parrot-Package=gdb
+X-Denios-Package=gdb

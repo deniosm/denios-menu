@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=13-automotive
-X-Parrot-Package=kayak
+X-Denios-Package=kayak

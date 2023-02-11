@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=05-02-offline-attacks;
 Comment=Brute-force password cracker for TrueCrypt (Copyright) volumes
-X-Parrot-Package=truecrack
+X-Denios-Package=truecrack

@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=sherlock
 Encoding=UTF-8
-Exec=parrot-exec "sherlock -h"
+Exec=denios-exec "sherlock -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-07-osint-analysis;
 Comment=Find Usernames Across Social Networks
-X-Parrot-Package=sherlock
+X-Denios-Package=sherlock

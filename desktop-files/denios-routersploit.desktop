@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=04-exploitation-tools;
-X-Parrot-Package=routersploit
+X-Denios-Package=routersploit

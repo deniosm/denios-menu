@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=02-03-voip-tools;02-02-fuzzers;
-X-Parrot-Package=ohrwurm
+X-Denios-Package=ohrwurm

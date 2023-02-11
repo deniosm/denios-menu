@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=01-13-ssl-analysis;
 Comment=Fast SSL/TLS scanner
-X-Parrot-Package=sslscan
+X-Denios-Package=sslscan

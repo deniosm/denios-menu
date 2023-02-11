@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-11-smtp-analysis;
-X-Parrot-Package=swaks
+X-Denios-Package=swaks

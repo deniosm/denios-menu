@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=06-01-wireless-tools;
-X-Parrot-Package=freeradius-wpe
+X-Denios-Package=freeradius-wpe

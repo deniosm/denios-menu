@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-01-os-backdoors;
-X-Parrot-Package=powershell-empire
+X-Denios-Package=powershell-empire

@@ -2,4 +2,4 @@
 Name=• Debuggers
 Type=Directory
 Comment=Creates a high level source file from binaries
-Icon=/usr/share/icons/parrot-common/reverse-engineering-trans.png
+Icon=/usr/share/icons/denios-common/reverse-engineering-trans.png

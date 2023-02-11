@@ -2,10 +2,10 @@
 Name=Goofile Nim
 Comment=OSINT tool that use google engine to find specific files
 Encoding=UTF-8
-Exec=parrot-exec goofileN
+Exec=denios-exec goofileN
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-07-osint-analysis;
-X-Parrot-Package=goofile-nim
+X-Denios-Package=goofile-nim

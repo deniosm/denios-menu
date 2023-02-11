@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=rz-gg
 Encoding=UTF-8
-Exec=parrot-exec "rz-gg -h"
-Icon=parrot-rizin.png
+Exec=denios-exec "rz-gg -h"
+Icon=denios-rizin.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-05-rizin;
 Comment=Compile programs into tiny binaries for x86-32/64 and ARM
-X-Parrot-Package=rizin
+X-Denios-Package=rizin

@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=volatility - vol
 Encoding=UTF-8
-Exec=parrot-exec "vol -h"
-Icon=parrot-volatility.png
+Exec=denios-exec "vol -h"
+Icon=denios-volatility.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=11-forensics;
 Comment=Advanced memory forensics framework
-X-Parrot-Package=volatility3
+X-Denios-Package=volatility3

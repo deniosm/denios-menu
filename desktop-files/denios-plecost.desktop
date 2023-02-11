@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-01-cms-identification;
-X-Parrot-Package=plecost
+X-Denios-Package=plecost

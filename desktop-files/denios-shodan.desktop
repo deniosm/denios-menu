@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=Shodan
 Encoding=UTF-8
-Exec=parrot-exec "shodan -h"
+Exec=denios-exec "shodan -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-07-osint-analysis;
 Comment=Search engine for Internet-connected devices
-X-Parrot-Package=python3-shodan
+X-Denios-Package=python3-shodan

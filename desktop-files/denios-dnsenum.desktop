@@ -2,10 +2,10 @@
 Name=dnsenum
 Comment=Perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks
 Encoding=UTF-8
-Exec=parrot-exec "dnsenum -h"
+Exec=denios-exec "dnsenum -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-01-dns-analysis;
-X-Parrot-Package=dnsenum
+X-Denios-Package=dnsenum

@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-05-web-vulnerability-scanners;
-X-Parrot-Package=padbuster
+X-Denios-Package=padbuster

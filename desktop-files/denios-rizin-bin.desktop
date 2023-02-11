@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=rz_bin — Binary program info extractor
 Encoding=UTF-8
-Exec=parrot-exec "rz-bin -h"
-Icon=parrot-rizin.png
+Exec=denios-exec "rz-bin -h"
+Icon=denios-rizin.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=07-05-rizin;
 Comment=Get information about ELF/PE/MZ and CLASS files
-X-Parrot-Package=rizin
+X-Denios-Package=rizin

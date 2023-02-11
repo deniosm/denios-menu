@@ -2,10 +2,10 @@
 Name=Dumpzilla 
 Comment=Extract all forensic interesting information of Firefox, Iceweasel and Seamonkey browsers
 Encoding=UTF-8
-Exec=parrot-exec dumpzilla
-Icon=parrot-menu.png
+Exec=denios-exec dumpzilla
+Icon=denios-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=08-02-hash-dump;
-X-Parrot-Package=dumpzilla
+X-Denios-Package=dumpzilla

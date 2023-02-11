@@ -2,10 +2,10 @@
 Name=dnsmap
 Comment=Subdomain brute-forcing
 Encoding=UTF-8
-Exec=parrot-exec "dnsmap"
+Exec=denios-exec "dnsmap"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-01-dns-analysis;
-X-Parrot-Package=dnsmap
+X-Denios-Package=dnsmap

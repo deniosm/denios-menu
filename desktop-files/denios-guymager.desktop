@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=false
 Type=Application
 Categories=11-07-forensic-imaging-tools;
-X-Parrot-Package=guymager
+X-Denios-Package=guymager

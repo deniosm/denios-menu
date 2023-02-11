@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=02-03-voip-tools;
 Comment=SIP-based VoIP client (console)
-X-Parrot-Package=twinkle-console
+X-Denios-Package=twinkle-console

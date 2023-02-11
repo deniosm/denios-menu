@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=veil
 Encoding=UTF-8
-Exec=parrot-exec "veil -h"
-Icon=parrot-veil-catapult-evasion.png
+Exec=denios-exec "veil -h"
+Icon=denios-veil-catapult-evasion.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-04-av-bypass;
 Comment=Generate metasploit payloads that bypass common anti-virus solutions.
-X-Parrot-Package=veil
+X-Denios-Package=veil

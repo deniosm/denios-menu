@@ -1,11 +1,11 @@
 [Desktop Entry]
 Name=WPScan - Wordpress Security Scanner
 Encoding=UTF-8
-Exec=parrot-exec "wpscan --help"
-Icon=parrot-wpscan.png
+Exec=denios-exec "wpscan --help"
+Icon=denios-wpscan.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-webapp-analysis;03-01-cms-identification;03-05-web-vulnerability-scanners;
 Comment=Black box WordPress Security Scanner
-X-Parrot-Package=wpscan
+X-Denios-Package=wpscan

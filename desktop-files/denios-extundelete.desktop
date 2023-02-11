@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=11-03-digital-forensics;
-X-Parrot-Package=extundelete
+X-Denios-Package=extundelete

@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=10-04-av-bypass;
 Comment=Dynamic shellcode injection tool and dynamic PE infector
-X-Parrot-Package=shellter
+X-Denios-Package=shellter

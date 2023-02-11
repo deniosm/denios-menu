@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=01-08-route-analysis;
-X-Parrot-Package=0trace
+X-Denios-Package=0trace

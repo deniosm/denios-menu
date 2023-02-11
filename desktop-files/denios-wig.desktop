@@ -2,10 +2,10 @@
 Name=wig
 Comment=Web application information gathering tool, which can identify numerous Content Management Systems and other administrative applications
 Encoding=UTF-8
-Exec=parrot-exec "wig -h"
+Exec=denios-exec "wig -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-webapp-analysis;03-01-cms-identification;03-05-web-vulnerability-scanners;
-X-Parrot-Package=wig
+X-Denios-Package=wig

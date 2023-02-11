@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=02-03-voip-tools;
 Comment=Tool to flood any RTP device
-X-Parrot-Package=rtpflood
+X-Denios-Package=rtpflood

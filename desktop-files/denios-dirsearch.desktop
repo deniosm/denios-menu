@@ -2,10 +2,10 @@
 Name=DirSearch
 Comment=Web path bruteforcer
 Encoding=UTF-8
-Exec=parrot-exec "dirsearch -h"
+Exec=denios-exec "dirsearch -h"
 Icon=xterm
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=03-04-web-crawlers;
-X-Parrot-Package=dirsearch
+X-Denios-Package=dirsearch

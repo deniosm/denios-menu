@@ -8,4 +8,4 @@ Terminal=true
 Type=Application
 Categories=02-03-voip-tools;
 Comment=Traffic generator for the SIP protocol
-X-Parrot-Package=sipp
+X-Denios-Package=sipp

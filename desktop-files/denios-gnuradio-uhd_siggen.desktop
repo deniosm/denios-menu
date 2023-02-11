@@ -2,10 +2,10 @@
 Name=uhd_siggen - Signal Generator using UHD hardware
 Comment=Command-line signal generator application.
 Encoding=UTF-8
-Exec=parrot-exec "uhd_siggen -h"
+Exec=denios-exec "uhd_siggen -h"
 Icon=gnuradio-grc
 StartupNotify=false
 Terminal=false
 Type=Application
 Categories=06-05-radio-tools;
-X-Parrot-Package=gnuradio
+X-Denios-Package=gnuradio

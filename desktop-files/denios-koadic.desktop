@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=08-post-exploit;
-X-Parrot-Package=koadic
+X-Denios-Package=koadic

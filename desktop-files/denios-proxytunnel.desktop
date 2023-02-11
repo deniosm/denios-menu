@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=10-02-tunneling;
-X-Parrot-Package=proxytunnel
+X-Denios-Package=proxytunnel

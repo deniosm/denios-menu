@@ -8,4 +8,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=04-06-db-exploit;
-X-Parrot-Package=odat
+X-Denios-Package=odat
